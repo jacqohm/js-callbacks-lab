@@ -1,8 +1,6 @@
 // your code here:
 window.onload = function() {
 
-  var body = document.querySelector('body');
-  var addCount = document.getElementById('count');
   var buttonStart = document.getElementById('start');
   var buttonPause = document.getElementById('pause');
   var buttonReset = document.getElementById('reset');
